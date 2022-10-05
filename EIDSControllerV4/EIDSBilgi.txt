@@ -1,0 +1,1 @@
+V3'te 180'dereceye kadar faz kaydırma ayarlanıyor.Sadece faz kaydırma var bu versıyondaTORQUE Pinleri:PA6->TIM1_BKIN:PE11->TIM1_CH2:PB0->TIM1_CH2N:PE13->TIM1_CH3:PB1->TIM1_CH3NV4'te RPM pinleri:PC6->TIM3_CH1:PA0->TIM2_CH1:PD12->TIM4_CH1
